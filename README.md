@@ -1,16 +1,30 @@
-## Hi there 👋
+# Hi there, I'm Emily! 👋 
 
-<!--
-**emsmw/emsmw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🌍 **Systems Engineer by day, Chaos Engineer by night**, miniaturizing enterprise infrastructure onto a mini-PC on my desk.
 
-Here are some ideas to get you started:
+### 🛠️ What I'm working on right now
+* 🚀 **Reverse Engineering Production:** Upgrading my local mini-PC homelab to mimic enterprise, high-availability environments.
+* 📊 **Observability Focus:** Implementing robust alerting pipelines utilizing **Prometheus, Grafana, Zabbix, and StatusCake** to turn silent containers into a fully observable ecosystem.
+* ☁️ **Cloud Horizon:** Actively learning and breaking things to bridge my core systems and network engineering background into the AWS Cloud ecosystem.
+* ✍️ **Writing:** Documenting my architectural failures, debugging triumphs, and configuration deep-dives over on my [Medium Publication](https://medium.com/@emsmw).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skill stack
+<!-- Skill icons provided by skill-icons. Full icon list and names:
+     https://github.com/tandpfun/skill-icons?tab=readme-ov-file#icons-list -->
+[![My Skills](https://skillicons.dev/icons?i=linux,docker,git,python,bash,prometheus,grafana&theme=light)](https://skillicons.dev)
+
+**Also comfortable with**: Zabbix, StatusCake, Core Networking (Architecture, Troubleshooting, and Routing Principles), Systemd configuration.
+
+### 📈 My Proving Grounds
+> "The best way to prove you understand engineering principles isn't just pointing at a certification, it’s showing how you think, how you break things, and how you fix them when things go sideways."
+
+* 📦 **Container Health Monitor:** Developed an automated workflow integrating systemd timers and journalctl logging to push real-time infrastructure alerts straight to Discord.
+
+### 📫 Connect with Me
+
+<a href="https://www.linkedin.com/in/emilysmw/" target="blank">
+  <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
+</a>
+<a href="https://medium.com/@emsmw" target="blank">
+  <img src="https://skillicons.dev/icons?i=medium" alt="Medium" />
+</a>
