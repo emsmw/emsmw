@@ -9,8 +9,6 @@
 * ✍️ **Writing:** Documenting my architectural failures, debugging triumphs, and configuration deep-dives over on my [Medium Publication](https://medium.com/@emsmw).
 
 ## Skill stack
-<!-- Skill icons provided by skill-icons. Full icon list and names:
-     https://github.com/tandpfun/skill-icons?tab=readme-ov-file#icons-list -->
 [![My Skills](https://skillicons.dev/icons?i=linux,docker,git,python,bash,prometheus,grafana&theme=light)](https://skillicons.dev)
 
 **Also comfortable with**: Zabbix, StatusCake, Core Networking (Architecture, Troubleshooting, and Routing Principles), Systemd configuration.
@@ -18,7 +16,7 @@
 ### 📈 My Proving Grounds
 > "The best way to prove you understand engineering principles isn't just pointing at a certification, it’s showing how you think, how you break things, and how you fix them when things go sideways."
 
-* 📦 **Container Health Monitor:** Developed an automated workflow integrating systemd timers and journalctl logging to push real-time infrastructure alerts straight to Discord.
+* 📦 **[Container Monitoring and Alerting System](https://github.com/emsmw/homelab-container-service-alerts):** Developed an automated workflow integrating systemd timers and journalctl logging to push real-time infrastructure alerts straight to Discord.
 
 ### 📫 Connect with Me
 
